@@ -1,0 +1,6 @@
+streamlit>=1.50
+scikit-learn>=1.3
+numpy
+pandas
+requests
+sentence-transformers>=2.7   # optional: enables embedding + hybrid search (app falls back to TF-IDF without it)
