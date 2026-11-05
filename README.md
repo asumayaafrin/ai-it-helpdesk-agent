@@ -108,7 +108,3 @@ Open `run_on_colab.ipynb`, upload the project zip when asked, and run the cells 
 **Department:** B.E. CSE (AI & ML)
 
 **University:** Anna University
-
-## Report
-
-[View Full Internship Report](AI_IT_Helpdesk_Agent_Report.pdf)
